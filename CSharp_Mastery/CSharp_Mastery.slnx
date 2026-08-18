@@ -1,4 +1,6 @@
 <Solution>
   <Project Path="CSharp_Arrays/CSharp_Arrays.csproj" Id="8c647f13-caee-4569-a4dd-62e5486ffff7" />
   <Project Path="CSharp_DataTypes/01_CSharp_DataTypes.csproj" />
+  <Project Path="CSharp_Loops/CSharp_Loops.csproj" Id="632f4696-5124-42b7-a9c2-5b2b8b6a117d" />
+  <Project Path="CSharp_Operatores/CSharp_Operatores.csproj" Id="5f06d947-b2f9-4899-9242-4d8a4aeb107f" />
 </Solution>
