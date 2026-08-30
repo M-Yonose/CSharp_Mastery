@@ -1,57 +1,94 @@
-﻿class WaterBottle
+﻿public class WaterBottle
+
+namespace OOPBasics;
+
+public class WaterBottle
 {
     private readonly int _capacity;
-    public int _waterAmount;
-    private readonly string _color = "white";
-    public string Label { get; set; } = string.Empty;
-
-
-    public int Capacity
-    {
-        get
-        {
-            return _capacity;
-        }
-    }
+    private int _waterAmount;
     public string Color
-    {
-        get
-        {
-            return _color;
-        }
-    }
-
-
 
     public WaterBottle() : this(300)
     {
 
+
     }
 
     public WaterBottle(int capacity) : this(capacity, "green")
-    {
-        Label = string.Empty;
-    }
 
-    public WaterBottle(int capacity, string color)
-    {
-        if (capacity < 0)
-            _capacity = 0;
-        else
-            _capacity = capacity;
 
-        _color = Color;
-    }
 
-    public void fill(int amount)
-    {
-        _waterAmount += amount;
-        if (_waterAmount > _capacity)
-        {
-            _waterAmount = _capacity;
-        }
 
-    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//namespace ASP.NET;
+
+    //class WaterBottle
+    //{
+    //    private readonly int _capacity;
+    //    public int _waterAmount;
+    //    private readonly string _color = "white";
+    //    public string Label { get; set; } = string.Empty;
+
+
+    //    public int Capacity
+    //    {
+    //        get
+    //        {
+    //            return _capacity;
+    //        }
+    //    }
+    //    public string Color
+    //    {
+    //        get
+    //        {
+    //            return _color;
+    //        }
+    //    }
+
+
+
+    //    public WaterBottle() : this(300)
+    //    {
+
+    //    }
+
+    //    public WaterBottle(int capacity) : this(capacity, "green")
+    //    {
+    //        Label = string.Empty;
+    //    }
+
+    //    public WaterBottle(int capacity, string color)
+    //    {
+    //        if (capacity < 0)
+    //            _capacity = 0;
+    //        else
+    //            _capacity = capacity;
+
+    //        _color = Color;
+    //    }
+
+    //    public void fill(int amount)
+    //    {
+    //        _waterAmount += amount;
+    //        if (_waterAmount > _capacity)
+    //        {
+    //            _waterAmount = _capacity;
+    //        }
+
+    //    }
 }
 //public string GetColor()
 //{
