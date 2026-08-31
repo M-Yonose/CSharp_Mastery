@@ -4,6 +4,7 @@
   <Project Path="CSharp_Lamda_Method/CSharp_Lambda_Method.csproj" Id="b66baf1f-e62f-4224-ad29-8e03bbff9928" />
   <Project Path="CSharp_Loops/CSharp_Loops.csproj" Id="632f4696-5124-42b7-a9c2-5b2b8b6a117d" />
   <Project Path="CSharp_Operatores/CSharp_Operatores.csproj" Id="5f06d947-b2f9-4899-9242-4d8a4aeb107f" />
+  <Project Path="InheritanceOOP/InheritanceOOP.csproj" Id="51d0175a-a32b-498f-81b5-7ffc25d7a0f7" />
   <Project Path="ObjectRefernce/ObjectRefernce.csproj" Id="550a196c-7abf-4b1f-b717-f63424042022" />
   <Project Path="OOPBasics/OOPBasics.csproj" Id="c344f537-d0e8-4ec6-b8c5-5bf813647de2" />
 </Solution>
