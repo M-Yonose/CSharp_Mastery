@@ -7,4 +7,6 @@
   <Project Path="CSharp_Operatores/CSharp_Operatores.csproj" Id="5f06d947-b2f9-4899-9242-4d8a4aeb107f" />
   <Project Path="InheritanceOOP/InheritanceOOP.csproj" Id="51d0175a-a32b-498f-81b5-7ffc25d7a0f7" />
   <Project Path="OOPBasics/OOPBasics.csproj" Id="c344f537-d0e8-4ec6-b8c5-5bf813647de2" />
+  <Project Path="PartialClass/PartialClass.csproj" Id="6d7ee02f-d27d-4a9a-8ff2-4dcb2acd7b6e" />
+  <Project Path="StaticClass/StaticClass.csproj" Id="8ae57a49-78a3-4241-b279-d1d0bf82550e" />
 </Solution>
