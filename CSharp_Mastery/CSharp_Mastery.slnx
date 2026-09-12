@@ -5,9 +5,11 @@
   <Project Path="CSharp_Lamda_Method/CSharp_Lambda_Method.csproj" Id="b66baf1f-e62f-4224-ad29-8e03bbff9928" />
   <Project Path="CSharp_Loops/CSharp_Loops.csproj" Id="632f4696-5124-42b7-a9c2-5b2b8b6a117d" />
   <Project Path="CSharp_Operatores/CSharp_Operatores.csproj" Id="5f06d947-b2f9-4899-9242-4d8a4aeb107f" />
+  <Project Path="Enum/Enums.csproj" Id="21299644-1ff0-4dd0-b9a3-e79b58fc8e0e" />
   <Project Path="InheritanceOOP/InheritanceOOP.csproj" Id="51d0175a-a32b-498f-81b5-7ffc25d7a0f7" />
   <Project Path="OOPBasics/OOPBasics.csproj" Id="c344f537-d0e8-4ec6-b8c5-5bf813647de2" />
   <Project Path="PartialClass/PartialClass.csproj" Id="6d7ee02f-d27d-4a9a-8ff2-4dcb2acd7b6e" />
   <Project Path="StaticClass/StaticClass.csproj" Id="8ae57a49-78a3-4241-b279-d1d0bf82550e" />
   <Project Path="StringAndCharMethods/StringAndCharMethods.csproj" Id="9b645ae1-6565-4b85-a4b3-e4b4db48ba03" />
+  <Project Path="StringFormatting/StringFormatting.csproj" Id="28da5e15-ab8c-49a8-9b2e-4afe84f34e36" />
 </Solution>
