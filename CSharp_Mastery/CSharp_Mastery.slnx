@@ -12,4 +12,5 @@
   <Project Path="StaticClass/StaticClass.csproj" Id="8ae57a49-78a3-4241-b279-d1d0bf82550e" />
   <Project Path="StringAndCharMethods/StringAndCharMethods.csproj" Id="9b645ae1-6565-4b85-a4b3-e4b4db48ba03" />
   <Project Path="StringFormatting/StringFormatting.csproj" Id="28da5e15-ab8c-49a8-9b2e-4afe84f34e36" />
+  <Project Path="Structures/Structures.csproj" Id="2588e72c-4a51-41a7-80c8-e7ae19cc8b07" />
 </Solution>
