@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="AbstractionOOP/AbstractionOOP.csproj" Id="33a757fa-d8d0-407e-a853-f3f19ef56fa9" />
+  <Project Path="AnonymousTypes/AnonymousTypes.csproj" Id="1245687a-ec39-4f28-90c4-4b91ee71b1e8" />
   <Project Path="CSharp_Arrays/CSharp_Arrays.csproj" Id="8c647f13-caee-4569-a4dd-62e5486ffff7" />
   <Project Path="CSharp_DataTypes/01_CSharp_DataTypes.csproj" />
   <Project Path="CSharp_Lamda_Method/CSharp_Lambda_Method.csproj" Id="b66baf1f-e62f-4224-ad29-8e03bbff9928" />
@@ -8,11 +9,14 @@
   <Project Path="DateTimeExample/DateTimeExample.csproj" Id="9b6c2b50-f80c-4701-96a9-ecffe8a2561a" />
   <Project Path="Enum/Enums.csproj" Id="21299644-1ff0-4dd0-b9a3-e79b58fc8e0e" />
   <Project Path="InheritanceOOP/InheritanceOOP.csproj" Id="51d0175a-a32b-498f-81b5-7ffc25d7a0f7" />
+  <Project Path="NullableTypes/NullableTypes.csproj" Id="03fb4985-96db-4a2e-b92a-a2d729e5c32d" />
   <Project Path="OOPBasics/OOPBasics.csproj" Id="c344f537-d0e8-4ec6-b8c5-5bf813647de2" />
+  <Project Path="ParameterModifier/ParameterModifier.csproj" Id="ee4add10-e6ae-4440-a818-bf8c29d74b8f" />
   <Project Path="PartialClass/PartialClass.csproj" Id="6d7ee02f-d27d-4a9a-8ff2-4dcb2acd7b6e" />
   <Project Path="StaticClass/StaticClass.csproj" Id="8ae57a49-78a3-4241-b279-d1d0bf82550e" />
   <Project Path="StringAndCharMethods/StringAndCharMethods.csproj" Id="9b645ae1-6565-4b85-a4b3-e4b4db48ba03" />
   <Project Path="StringBuilder/StringBuilder.csproj" Id="33f3c4e4-5aa1-4927-8874-cae5a1b8fc39" />
   <Project Path="StringFormatting/StringFormatting.csproj" Id="28da5e15-ab8c-49a8-9b2e-4afe84f34e36" />
   <Project Path="Structures/Structures.csproj" Id="2588e72c-4a51-41a7-80c8-e7ae19cc8b07" />
+  <Project Path="ToupleExample/ToupleExample.csproj" Id="f72ca37d-5de4-4c47-a542-426e177b0d54" />
 </Solution>

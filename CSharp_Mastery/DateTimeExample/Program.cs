@@ -1,9 +1,13 @@
 ﻿DateTime d1 = new DateTime(2023, 10, 15);
 
+Console.WriteLine(d1.AddDays(-49).Month);
+
 DateTime d2 = DateTime.Now;
 DateTime d3 = DateTime.UtcNow;
 
-Console.WriteLine(d1.AddDays(-49).Month);
+Console.WriteLine(d2);
+Console.WriteLine(d3);
+
 
 Console.WriteLine(DateTime.IsLeapYear(d2.Year));
 
