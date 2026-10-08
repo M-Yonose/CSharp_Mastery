@@ -11,6 +11,7 @@
   <Project Path="FileOperations/FileOperations.csproj" Id="521bb72e-2ba3-4236-885f-345fc60b7846" />
   <Project Path="GenericCollection/GenericCollection.csproj" Id="9c83fdc5-1458-4fb6-b6ae-ebac46668846" />
   <Project Path="GenericsExamples/GenericsExamples.csproj" Id="2c18df5d-00a7-4e42-9c6d-13b0eaf2c22a" />
+  <Project Path="ImportantInterfaces/ImportantInterfaces.csproj" Id="c389d8e7-4d33-4ac3-a972-f4a59f394552" />
   <Project Path="InheritanceOOP/InheritanceOOP.csproj" Id="51d0175a-a32b-498f-81b5-7ffc25d7a0f7" />
   <Project Path="NullableTypes/NullableTypes.csproj" Id="03fb4985-96db-4a2e-b92a-a2d729e5c32d" />
   <Project Path="OOPBasics/OOPBasics.csproj" Id="c344f537-d0e8-4ec6-b8c5-5bf813647de2" />
