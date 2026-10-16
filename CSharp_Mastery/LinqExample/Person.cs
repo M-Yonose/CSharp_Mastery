@@ -4,7 +4,10 @@ using System.Text;
 
 namespace LinqExample
 {
-    internal class Person
+    public class Person
     {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public int Age { get; set; }
     }
 }

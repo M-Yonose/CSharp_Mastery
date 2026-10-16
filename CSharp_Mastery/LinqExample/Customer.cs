@@ -4,7 +4,10 @@ using System.Text;
 
 namespace LinqExample
 {
-    internal class Customer
+    public class Customer
     {
+        public int Id { get; set; }
+        public DateTime LastLogin { get; set; }
+        public bool IsActive { get; set; }
     }
 }

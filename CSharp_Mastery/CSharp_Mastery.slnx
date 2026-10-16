@@ -10,11 +10,13 @@
   <Project Path="Delegates/Delegates.csproj" Id="07e86532-b870-4858-8b11-06d31230e404" />
   <Project Path="Enum/Enums.csproj" Id="21299644-1ff0-4dd0-b9a3-e79b58fc8e0e" />
   <Project Path="Events/Events.csproj" Id="058151e3-bfa4-4a8d-8ce7-19739aaa17a4" />
+  <Project Path="ExceptionHandeling/ExceptionHandling.csproj" Id="a5449ce4-756e-425c-9076-1fc3873b6ac4" />
   <Project Path="FileOperations/FileOperations.csproj" Id="521bb72e-2ba3-4236-885f-345fc60b7846" />
   <Project Path="GenericCollection/GenericCollection.csproj" Id="9c83fdc5-1458-4fb6-b6ae-ebac46668846" />
   <Project Path="GenericsExamples/GenericsExamples.csproj" Id="2c18df5d-00a7-4e42-9c6d-13b0eaf2c22a" />
   <Project Path="ImportantInterfaces/ImportantInterfaces.csproj" Id="c389d8e7-4d33-4ac3-a972-f4a59f394552" />
   <Project Path="InheritanceOOP/InheritanceOOP.csproj" Id="51d0175a-a32b-498f-81b5-7ffc25d7a0f7" />
+  <Project Path="LinqExample/LinqExample.csproj" Id="fa1e7056-8c91-4437-9a07-393adeaa2854" />
   <Project Path="NullableTypes/NullableTypes.csproj" Id="03fb4985-96db-4a2e-b92a-a2d729e5c32d" />
   <Project Path="OOPBasics/OOPBasics.csproj" Id="c344f537-d0e8-4ec6-b8c5-5bf813647de2" />
   <Project Path="ParameterModifier/ParameterModifier.csproj" Id="ee4add10-e6ae-4440-a818-bf8c29d74b8f" />
